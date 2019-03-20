@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".thirdGrade10"
+    android:background="@color/white"
+    android:padding="15dp">
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="369dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button2"
+        android:layout_marginBottom="-150dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="b;sydih yeoerSfu uq,dY%h"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18dp"
+        android:onClick="startquiz"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="369dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="150dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="Y%S ,xldfj ckdjdi"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18dp"
+        android:onClick="startquiz"/>
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="369dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button2"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="YS% ,xldfj foaYmd,k n,h jsldYkh jSu"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18dp"
+        android:onClick="startquiz"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="369dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button3"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="YS% ,xldfj merKs iudch"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18dp"
+        android:onClick="startquiz"/>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="369dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button4"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="YS% ,xldfj merKs jsoYdj yd ;dlaIKh"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18dp"
+        android:onClick="startquiz"/>
+
+
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="39dp"
+        android:gravity="center"
+        android:text="10 jir jsYh ksrafoaYh"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"/>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz Wizard</string>
+    <string name="b_sydih">b;sydih</string>
+    <string name="idudkh_fm"><![CDATA[idudkH fm<]]></string>
+    <string name="todo">TODO</string>
+    <string name="_10_jir">10 jir</string>
+    <string name="_11_jir">11 jir</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
